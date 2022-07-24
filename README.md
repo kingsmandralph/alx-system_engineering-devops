@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System Engineering
 
 ## Shell Basics
@@ -89,3 +90,7 @@ SSL forms the backbone of our secure Internet and protects sensitive information
 Physical displays of SSL are a padlock or green address bar in a browser.
 
 ## END
+=======
+## Alx-system_engineering-devops
+- [x] Bash Scripting
+>>>>>>> 699b22b4c162866d3c56e09b8c4d6a7b79b51836
