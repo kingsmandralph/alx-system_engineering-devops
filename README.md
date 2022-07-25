@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # System Engineering
 
 ## Shell Basics
